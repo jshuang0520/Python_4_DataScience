@@ -5,13 +5,6 @@
 
 #### 這是[黃聖翔](https://www.facebook.com/profile.php?id=100001348802783)在台大系統訓練班第287期python_4_ds的上課筆記
 
-- [第一堂](http://nbviewer.jupyter.org/github/jshuang0520/Python_4_DataScience/blob/master/2017.08.07%20%E7%AC%AC1%E5%A0%82%E4%B8%8A%E8%AA%B2%E8%A8%98%E9%8C%84.ipynb)
-
-
-- [第一堂](http://nbviewer.jupyter.org/github/jshuang0520/Python_4_DataScience/blob/master/2017.08.07%20%E7%AC%AC1%E5%A0%82%E4%B8%8A%E8%AA%B2%E8%A8%98%E9%8C%84.ipynb)
-
-
-- [第一堂](http://nbviewer.jupyter.org/github/jshuang0520/Python_4_DataScience/blob/master/2017.08.07%20%E7%AC%AC1%E5%A0%82%E4%B8%8A%E8%AA%B2%E8%A8%98%E9%8C%84.ipynb)
 
 
 - [第一堂](http://nbviewer.jupyter.org/github/jshuang0520/Python_4_DataScience/blob/master/2017.08.07%20第1堂上課記錄.ipynb)
